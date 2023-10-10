@@ -1,2 +1,2 @@
 # GCTrabalho2
-Repositório do segunda trabalho de GC
+Repositório do segundo trabalho de GC
